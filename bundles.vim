@@ -128,3 +128,26 @@ Bundle 'Shougo/vimproc'
 Bundle 'Shougo/unite.vim'
 Bundle 'Shougo/unite-outline'
 Bundle 'ujihisa/unite-colorscheme'
+
+"Custom Customizations :)
+"PHP
+Bundle 'spf13/PIV'
+Bundle 'arnaud-lb/vim-php-namespace'
+Bundle 'beyondwords/vim-twig'
+
+"Python
+Bundle 'klen/python-mode'
+Bundle 'yssource/python.vim'
+
+"JavaScript
+Bundle 'elzr/vim-json'
+Bundle 'groenewege/vim-less'
+Bundle 'pangloss/vim-javascript'
+Bundle 'briancollins/vim-jst'
+
+"Configuration Management
+Bundle 'rodjek/vim-puppet'
+Bundle 'vadv/vim-chef'
+
+"General stuff I like
+Bundle 'flazz/vim-colorschemes'
